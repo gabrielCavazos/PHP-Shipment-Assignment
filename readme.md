@@ -1,4 +1,4 @@
-##How to Run the PHP Shipment Assignment Application
+## How to Run the PHP Shipment Assignment Application
 To run the PHP application that assigns shipment destinations to drivers and calculates the total suitability score, follow these instructions:
 
 - Open a command-line interface or terminal.
@@ -21,8 +21,8 @@ php tests.php
 
 ***Note: Make sure you have PHP installed on your system and added to your system's PATH variable to run the PHP script from the command line.***
 
-###Installing PHP on Different Operating Systems
-####For Windows:
+### Installing PHP on Different Operating Systems
+#### For Windows:
 - Visit the PHP for Windows download page: https://windows.php.net/download/
 
 - Choose the appropriate PHP version for your system architecture (x64 or x86). Select the thread-safe version if you are unsure.
@@ -57,7 +57,7 @@ extension_dir = "C:\php\ext"
 php -v
 ```
 
-####For macOS:
+#### For macOS:
 
 - Open a terminal.
 
@@ -77,7 +77,7 @@ brew install php
 php -v
 ```
 
-####For Linux (Ubuntu/Debian):
+#### For Linux (Ubuntu/Debian):
 - Open a terminal.
 
 - Update the package list by running the following command:
